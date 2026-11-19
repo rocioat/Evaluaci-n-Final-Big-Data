@@ -13,5 +13,5 @@ La base de datos corresponde a un conjunto de datos simulado proporcionado por l
 Contenido del repositorio
 
 Proyectos_DS27_agrupados_Codigo_SERVIU.csv
-
+Araya_Rocio_Evaluacion_Final_BigData.ipynb
 
